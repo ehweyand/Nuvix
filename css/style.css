@@ -431,4 +431,8 @@ code, pre {
         padding: 10px;
         background-color: rgba(0, 0, 0, 0.1);
     }
+    /*Telas realmente pequenas */
+    .showcase-form {
+        width: 300px;
+    }
 }
